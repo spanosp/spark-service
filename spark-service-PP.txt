@@ -1,1 +1,24 @@
-Private policy: TBD
+Privacy policy
+
+spark-service. Effective 10 September 2026.
+Who uses this app
+
+spark-service is a private app with a single user: its owner. It is not offered to the public, and it does not collect data from anyone else.
+Google data it accesses
+
+    Google Contacts, read-only. Used to recognise people the owner already knows. The app never adds, changes or deletes contacts.
+    Google Drive files that the app itself creates. The app cannot see any other file in the Drive.
+
+How the data is used
+
+The data is used only to carry out the owner's own tasks. It is processed on equipment the owner controls. It is not sold, not shared with third parties, not used for advertising, and not used to train AI models.
+
+Use of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements.
+Storage and deletion
+
+Copies are kept only on systems the owner controls and in the owner's own encrypted backups. The owner can delete them at any time.
+
+Access can be removed at any time at myaccount.google.com/permissions. Removing it stops the app from reading or creating anything further.
+Contact
+
+Questions can be sent to the support email shown on Google's sign-in screen for this app.
